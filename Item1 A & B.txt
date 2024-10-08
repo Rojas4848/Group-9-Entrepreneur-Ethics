@@ -1,0 +1,38 @@
+A. Company Name of Fictitious Company (make it a name you would like --
+treat this like a real startup). Remember this must be a tech company.
+    a. Company Name: HeartTrack
+
+B. Long-Term Vision Statement -- write in full paragraphs not bullets a
+statement that addresses each of the questions below.
+    i. Goals: What are the goals?
+        1. HeartTrack's goals aim to provide the user with a wearable device
+            to better improve the user's overall health by providing reliable
+            and accurate data regarding one's health. There will be a strong
+            focus on the security of the user's data while also being compatible
+            with other health platforms and being accessible with various
+            healthcare providers. HeartTrack also aims to offer a device that is
+            affordable, durable, and accessible for users all around the world.
+    ii. Idea Origination: Where did your idea come from (a class, a job, a need)?
+        1. The idea of a wearable device came from a need. There will always be
+            countless opportunities to enhance a user's experience and ability
+            to monitor your health.
+    iii. Purpose/Values/Mission: What is the purpose, values, and mission?
+        1. The purpose of HeartTrack is to provide a wearable device for a
+            user that will provide reliable and accurate data so that the user
+            will be able to have constant access to all important health
+            information.
+        2. the values that HeartTrack has is to provide constant innovation
+            for users, by that we mean that HeartTrack will constantly evolve
+            in all avenues of the device. Its boundaries will be constantly pushed
+            to ensure that this wearable technology stays ahead of the curve for
+            monitoring health. HeartTrack will provide top-tier security for the
+            user and all their data. One value that we believe is the biggest is
+            that HeartTrack will be honest and transparent with users so that users
+            will feel the most comfort with not just the technology but with the company
+            as a whole.
+        3. HeartTrack's mission is to make sure that individuals have the control of
+            their well-being by having a piece of technology that provides accurate,
+            reliable health data through the wearable device. HeartTrack is dedicated
+            to helping others enhance lives in several different ways like promoting
+            better health habits, creating diet plans, and maintaining current diet
+            plans.
