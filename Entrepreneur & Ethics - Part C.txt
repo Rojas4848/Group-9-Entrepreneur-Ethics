@@ -1,0 +1,39 @@
+﻿1. Company Summary
+HeartTrack focuses on creating and maintaining wearable devices that improve patients’ health by monitoring health measurements. This device will be designed to be synchronized with a mobile application which encapsulates all of the important health data of the user.  The data will be accessible to the user, as well as any other healthcare providers with whom the user wishes to share with. The device and application are scaled to be used by both one user (the patient) and multiple people at the same time (healthcare providers). This device will be fully maintained by the company and constantly improving according to the patients’ needs and wishes.
+2. ONE Objective and Key Result OKR
+The HeartTrack device will achieve user satisfaction and product accuracy through the use of frequent software updates. The HeartTrack device must be designed to allow the user to provide their feedback by taking satisfaction surveys. This is a great way to improve the user’s experience and pinpoint the necessary software updates which address the user’s feedback. The product development and software updates will rely on the user’s suggestions which will determine the fixes and features that will be added to the device. Another result is to reduce product failure to the lowest percentage possible. This will be achieved by improving the quality assurance process, using test driven development, and stress testing. Decreasing latency and increasing the throughput will be some of the most important results. Key stakeholders will include the patient which is the main one, the company and other third party people such as healthcare providers, family members and others. 
+
+
+3. Ethical Impact(s)/Issue(s)
+A potential ethical issue that could arise from this OKR is data privacy. One of HeartTrack’s main goals is to collect some of the most sensitive data points from the user. Moreover, one of this objective’s key results is to collect the users’ opinions about the device and application. So, it is important to keep in mind that this could result in consent issues. This could impact the users’ trust in the company which is very problematic as our number one goal is to be transparent with our clients. One real-life example of this ethical issue is the Fitbit tracker which faced criticism over sharing its users’ data with third parties (Evans, 2023). This highlights one of the impacts that data sharing could have on the users, which is selling users’ information in order to better target advertising. This source mentions some serious impacts that this ethical issue could have, such as hiking up health insurances, government access to the data, or even sharing GPS locations with law enforcement. These are all some impacts that we should be conscious about in order to deliver the best data privacy to our stakeholders. 
+
+
+Expected Ethical Impact Risk Table
+Stakeholder
+	Financial Risk
+	Privacy Risk
+	Conflicting Interest Risk
+	Customer
+	Low
+	High
+	Mid
+	Company
+	High
+	Low
+	Mid
+	Healthcare Providers
+	Low
+	Mid
+	Mid
+	
+
+
+
+Analysis of Ethical Impact Risk:
+* Customer / User Stakeholder: The financial risk of the client using HeartTrack is low, as they do not have any finances at stake while using the device/application. However, their privacy risk is high as it is their data that is being collected and at risk to be published. Their conflicting interest risk is medium as their number one goal from using the product is a user friendly experience and data privacy, while the healthcare providers may prioritize convenience.
+* Company Stakeholder: The financial risk of the company is high because of the financial investment in creating the best possible product. The company could experience tremendous financial losses if something goes wrong. However, their privacy risk is low as there is no correlation between the company and privacy. While the company is ethically driven and prioritizes the client’s privacy, it wouldn’t be as affected by a data privacy issue. Their conflicting interest risk is medium as their number one goal from creating the product is data privacy and profit, while the healthcare providers may prioritize convenience.
+* Healthcare Provider Stakeholder: The financial risk of the healthcare providers is low as they have no finances invested in the device. The privacy risk is medium as their patients’ privacy is very important. Healthcare providers’ reputation depends on the efficacy of their patients’ data hiding, although they would not be responsible for any data privacy issue in this case, as it is the company’s responsibility to. Their conflicting interest risk is medium as their number one goal from using the product is learning about patterns in their patients’ health, while the company may prioritize profit in some cases.
+
+
+4. Ethical Safeguard(s)
+One method of allowing for undated features to better inform and engage users would be to send out notifications when these updates are being sent out and be transparent with what is being added or what is being changed. This will help the usre with being able to grow their trust with the device and know that the company has their best interests into making sure that they are putting out the best device possible for the public. “Those that conceal how they use personal data and fial to provide value for it stand to lose customers’ goodwill–and their business” [2]. Another potential method involves transparency but with teh device as a whole and not just with updates. Giving the user a better idea of how the device works and what is incorporated to make sure the data that is being received is accurate and reliable. Overall, I think that the biggest thing with the device is that transparency from the company has to be set to a high standard.
